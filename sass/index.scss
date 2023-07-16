@@ -1,0 +1,6 @@
+// customize theme variables
+$secondary: indigo; //upadting default colors value if u want to update in future put at top before importing shinobi
+$base-padding: 1rem;
+$base-border-thickness: 3px;
+
+@import 'shinobi'; // will look index file in this directory and import it
